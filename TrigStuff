@@ -1,9 +1,7 @@
 import math
 
 print("Hello. This is a test for random stuff. Let's try some trig.")
-
- a = sin(30)
- b = cos(30)
- 
- print(a)
- print(b)
+a = math.sin(2 * math.pi)
+b = math.cos(2 * math.pi)
+print(a)
+print(b)
