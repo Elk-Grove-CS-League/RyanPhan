@@ -1,0 +1,9 @@
+import math
+
+print("Hello. This is a test for random stuff. Let's try some trig.")
+
+ a = sin(30)
+ b = cos(30)
+ 
+ print(a)
+ print(b)
